@@ -11,7 +11,20 @@
         },
         "body": {
             "header": {},
-            "sections": [],
+            "sections": [
+                {
+                    "type": "label",
+                    "text": "Hello world",
+                    "style": {
+                        "font": "AcademyEngravedLetPlain",
+                        "size": "30",
+                        "color": "rgb(0,0,0)",
+                        "padding": "10",
+                        "background": "rgb(0,0,0)",
+                        "corner_radius": "0"
+                    }
+                }
+            ],
             "layers": [],
             "footer": {}
         }
