@@ -1,0 +1,19 @@
+{
+    "$jason": {
+        "head": {
+            "title": "WFH",
+            "description": "Work from home app, to help you get started and plugged in.",
+            "offline": "true",
+            "styles": {},
+            "actions": {},
+            "templates": {},
+            "data": {}
+        },
+        "body": {
+            "header": {},
+            "sections": [],
+            "layers": [],
+            "footer": {}
+        }
+    }
+}
